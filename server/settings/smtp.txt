@@ -1,0 +1,5 @@
+debug = true
+host = smtp.example.com
+username = user@example.com
+password = asd
+port = 100
