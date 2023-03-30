@@ -12,6 +12,8 @@
     <title>Partilha Fundamental</title>
 </head>
 <body>
-    
+    <div id="navegacao">
+        
+    </div>
 </body>
 </html>
